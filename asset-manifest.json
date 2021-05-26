@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netflix-movie-app/static/css/main.072cfa0e.chunk.css",
+    "main.js": "/netflix-movie-app/static/js/main.a0f8eacf.chunk.js",
+    "main.js.map": "/netflix-movie-app/static/js/main.a0f8eacf.chunk.js.map",
+    "runtime-main.js": "/netflix-movie-app/static/js/runtime-main.ca06d6c3.js",
+    "runtime-main.js.map": "/netflix-movie-app/static/js/runtime-main.ca06d6c3.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/netflix-movie-app/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e8189e6b.chunk.js": "/netflix-movie-app/static/js/2.e8189e6b.chunk.js",
+    "static/js/2.e8189e6b.chunk.js.map": "/netflix-movie-app/static/js/2.e8189e6b.chunk.js.map",
+    "index.html": "/netflix-movie-app/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/netflix-movie-app/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.072cfa0e.chunk.css.map": "/netflix-movie-app/static/css/main.072cfa0e.chunk.css.map",
+    "static/js/2.e8189e6b.chunk.js.LICENSE.txt": "/netflix-movie-app/static/js/2.e8189e6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca06d6c3.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e8189e6b.chunk.js",
+    "static/css/main.072cfa0e.chunk.css",
+    "static/js/main.a0f8eacf.chunk.js"
+  ]
+}
